@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280958394061",
+    "project_id": "sportsgurukul-8de64",
+    "storage_bucket": "sportsgurukul-8de64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280958394061:android:8e2efad88b781a4b229384",
+        "android_client_info": {
+          "package_name": "com.example.sports_gurukul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280958394061-hiqbkkahga0fk33tokcpl75b4elh22u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzGBV8H1MM-f8dt2AAjO-JkTippuXDUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280958394061-hiqbkkahga0fk33tokcpl75b4elh22u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
